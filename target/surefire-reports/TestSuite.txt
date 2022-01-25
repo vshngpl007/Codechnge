@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 10.713 s <<< FAILURE! - in TestSuite
+Consistency.NewTest.openGoogle  Time elapsed: 0.012 s  <<< FAILURE!
+java.lang.NullPointerException
+	at Consistency.NewTest.openGoogle(NewTest.java:26)
+
