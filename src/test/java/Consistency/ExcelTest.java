@@ -11,6 +11,7 @@ String xyz = "";
 
 String iou="";
         System.out.println("jfj");
+        String gg = "";
 
     }
 }
